@@ -6,8 +6,6 @@ public class FileWorker {
 
     private String path;
 
-    private int test = 12223;
-
     public void setisRecursiv(boolean recursive){ isRecursive = recursive; }
 
     public boolean getisRecursive(){return isRecursive;}
